@@ -131,6 +131,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# __pychche__ removed
-__pycache__
